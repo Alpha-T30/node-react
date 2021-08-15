@@ -1,2 +1,2 @@
 # node-react
-Deploying node and react app together in heroku 
+Deploying react app with node backend together 
